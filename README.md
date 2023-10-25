@@ -11,5 +11,5 @@
 ## GITHUB PROYECTO OFICIAL 
 https://github.com/NginxProxyManager/nginx-proxy-manager
 
-# proxy-manager
+
 Nginx Proxy Manager Docker
